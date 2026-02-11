@@ -1,0 +1,4 @@
+repository "My project 2026-02-02_18-55-04/Escape Room@3574355634652@cloud"
+  path "/"
+    br "/main"
+    co "/main"
